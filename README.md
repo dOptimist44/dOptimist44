@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dOptimist44
-- 👀 I’m interested in graphics 
-- 🌱 I’m currently learning UI/UX design 
-- 💞️ I’m looking to collaborate on graphic designing
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
 <!---
